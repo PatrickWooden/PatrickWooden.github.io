@@ -2,5 +2,11 @@
     width: 100%;
 }
 .profilePic{
-    border-radius: 50%;
+    border-radius: 20%;
+}
+.bio{
+    width: 75%;
+}
+.sidebar{
+    width: 25%;
 }
